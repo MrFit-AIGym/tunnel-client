@@ -1,4 +1,4 @@
-# syntax=openaiapibase.azurecr.io/mirror/docker/dockerfile:1@sha256:9857836c9ee4268391bb5b09f9f157f3c91bb15821bb77969642813b0d00518d
+# syntax=docker/dockerfile:1.6
 
 ARG BASE_BUILDER_IMAGE=golang:1.26.2-alpine
 ARG BASE_UI_BUILDER_IMAGE=node:22-alpine
